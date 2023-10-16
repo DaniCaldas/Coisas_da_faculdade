@@ -1,2 +1,3 @@
-# Coisas_da_faculdade
-Repositório de coisas da facul
+# Repositório de coisas da facul
+### coisas como exercicios em php, pyhon, códigos de postgres, etc...
+
